@@ -1,4 +1,4 @@
-# 📊 Monte Carlo Gaussian Area Estimator
+# Monte Carlo Gaussian Area Estimator
 
 A Java Swing application that estimates the area under a Gaussian (Normal Distribution) probability density function (PDF) using the **Monte Carlo stocastic integration method**, featuring real-time visual rendering.
 
@@ -6,7 +6,7 @@ A Java Swing application that estimates the area under a Gaussian (Normal Distri
 
 ---
 
-## 🚀 Features
+## Features
 * **Stocastic Estimation:** Uses random sampling within a bounding box to approximate definite integrals.
 * **Customizable Parameters:** Dynamically adjust the total number of sampling points, standard deviation ($\sigma$), and mean ($\mu$).
 * **Real-time Rendering:** Built with a safe custom `JPanel` rendering pipeline to prevent UI flickering and handle window resizing smoothly.
@@ -14,7 +14,7 @@ A Java Swing application that estimates the area under a Gaussian (Normal Distri
 
 ---
 
-## 🧮 Mathematical Background
+## Mathematical Background
 
 The probability density function (PDF) of a Gaussian distribution is given by:
 
